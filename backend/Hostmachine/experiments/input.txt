@@ -1,0 +1,10 @@
+nDevices	3
+protocol	0
+type	RPi	1	Ardu	1	intelE	1
+Rpi	T	0	0.5	25.7	L	1	1	10	D	0
+Ardu	T	0	0.8	23.2	L	0	2	12	D	1
+Edison	T	1	9.2	100.5	L	0	2	17	D	0
+Occurance	F	20	min
+Network	N	R
+Log	Y	
+Endtime	3	min

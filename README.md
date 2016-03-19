@@ -1,7 +1,4 @@
-# finalRound_teamOops_IndiaHacks  
-Submission towards final offline round of indiahacks conference/hackathon 2016  
-
-# Team_Oops_Submission_IndiaHacks_IoT  
+# FinalRound_teamOops_IndiaHacks  
 
 Device simulator to debug and test  IoT software platforms and cloud apps  
 (This Repository is part of the submission to Indiahacks'16- IoT theme organized by HackerEarth)  

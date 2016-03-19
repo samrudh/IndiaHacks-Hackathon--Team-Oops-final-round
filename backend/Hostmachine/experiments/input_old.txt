@@ -1,0 +1,6 @@
+nDevices	3
+protocol	0
+type	RPi	1	Ardu	1	intelE	1
+Rpi	T	1	0.5	25.7	L	1	1	10	D	1
+Ardu	T	1	1.2	23.2	L	1	2	12	D	1
+Edison	T	1	9.2	100.5	L	1	2	17	D	1

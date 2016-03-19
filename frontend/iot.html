@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html">
+  <title>IoT Platform Simulator</title>
+  <meta name="author" content="Yogesh Chavan">
+  <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
+  <link rel="stylesheet" type="text/css" media="all" href="css/switchery.min.css">
+  <script type="text/javascript" src="js/switchery.min.js"></script>
+</head>
+
+<body>
+  <div id="wrapper">
+  
+  <h1>Device Simulator for IoT Platform</h1>
+<!--<form id="input" action="takedata.php" method="get">-->
+<form id="input" action="test.php" method="get">
+  <div class="col-4">
+    <label>
+      Select Number Of Devices
+      <input placeholder="Number Of Devices?" type="text"  name="name" tabindex="1">
+    </label>
+  </div>
+
+  <div class="col-4">
+    <label>
+      Select Protocol
+      <input placeholder="Protocol ?" type="text" id="pro" name="pro" tabindex="2">
+    </label>
+  </div>
+   <div class="col-4">
+    <label>
+      Select Device Type
+      <select name="dType">
+      <option value="" name=""> --Select--</option>
+      <option value="RPi" name="RPi"> Raspberry Pi</option>
+      <option value="Ardu" name="Ardu"> Arduino</option>
+      <option value="intelE" name="intelE" > Intel Edison</option>
+      </select>
+    </label>
+  </div>
+
+  <div class="col-4">
+  <label for="sType"> Select Sensor Type <br>
+ 
+ </label>
+  </div>
+  
+  <div class="col-4">
+    <label>
+      Select Occurrence <br>
+      <!--<select tabindex="5">-->
+  <left style="position:relative; margin-bottom:8px;">
+  <input type="radio" name="radAnswer" value="F"  checked tabindex="5"> Fixed <br>
+  <input type="radio" name="radAnswer" value="P" > Periodic<br>
+  <input type="radio" name="radAnswer" value="Rnd" > Random
+  </left>
+     </label>
+  </div>
+  
+  <div class="col-4">
+    <label>
+      Select Network Issue<br>
+      <!--<select tabindex="5">-->
+  <left style="position:relative; margin-bottom:8px;">
+   <input type="radio" name="Netissue" value="Rok" checked> Regular <br>
+  <input type="radio" name="Netissue" value="F" > Flicky<br>
+  <input type="radio" name="Netissue" value="R"> Random Rare<br>
+  </left>
+     </label>
+  </div>
+  
+
+<script type="text/javascript">
+function yesnoCheck() {
+    if (document.getElementById('yesCheck').checked) {
+        document.getElementById('ifYes').style.display = 'block';
+    }
+    else document.getElementById('ifYes').style.display = 'none';
+} </script>
+
+<div class="col-4">
+<label for="mlog"> Maintain Log <br>
+  <div>
+  <input type="radio" onclick="javascript:yesnoCheck();" name="yesno" id="yesCheck"> Yes </div>
+  <div id="ifYes" style="display:none">
+  <center style="position:relative; margin-bottom:8px;">
+  <label for="mlog">Export Log </label> 
+  <input type='text' id='xlog' name='log' maxlength="20" size="10">
+  </center>
+  </div>
+ <div>
+ <input type="radio" onclick="javascript:yesnoCheck();" name="yesno" id="noCheck"> No<br>
+ </div>
+ </label>
+ </div>
+  <div class="col-4">
+    <label>
+    <left style="position:relative; margin-bottom:8px;">
+      Start Time
+      <input  id="stime" name="stime" tabindex="7"><br>
+      End Time
+      <input id="etime" name="etime" tabindex="8">
+    </left>
+    </label>
+  </div>
+
+  <div class="col-4">
+    <label>Pause</label>
+    <center style="position:relative; margin-bottom:8px;"><input type="checkbox" class="js-switch"></center>
+  </div>
+  <div class="col-4 switch">
+    <label>Abort</label>
+    <center style="position:relative;margin-bottom:8px;"><input type="checkbox" class="js-switch"></center>
+  </div>
+  
+  <div class="col-submit">
+    <button type="submit" class="submitbtn">START</button>
+    <!--<input type="submit" value="Submit">-->
+  </div>
+  </form>
+  </div>
+
+
+<script type="text/javascript">
+var elems = Array.prototype.slice.call(document.querySelectorAll('.js-switch'));
+
+elems.forEach(function(html) {
+  var switchery = new Switchery(html);
+});
+</script>
+
+
+<footer>
+<p>
+  <p><b>Developed by:</b> Yogesh Chavan and Samrudha Kellakar</p>
+  <p><b>Contact information:</b> <a href="mailto:yogeshslc@gmail.com">
+  yogeshslc@gmail.com</a>.</p>
+</p>
+</footer>
+</body>
+</html>

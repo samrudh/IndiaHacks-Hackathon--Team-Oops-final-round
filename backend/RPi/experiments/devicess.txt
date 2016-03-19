@@ -1,0 +1,61 @@
+SimulatedRPi0	tEE7OIlLMkwVXAH8orgPNxM	T	0	0.5	25.7
+SimulatedRPi0	tEE7OIlLMkwVXAH8orgPNxM	L	1	1	10
+SimulatedRPi1	vlzBpFheBzK02RIXByjSj0I	T	0	0.5	25.7
+SimulatedRPi1	vlzBpFheBzK02RIXByjSj0I	L	1	1	10
+SimulatedArduino0	ZhAx79wT161jVoh6fFf5wnK	T	0	0.8	23.2
+SimulatedArduino0	ZhAx79wT161jVoh6fFf5wnK	T	1	0.8	23.2
+SimulatedArduino0	ZhAx79wT161jVoh6fFf5wnK	L	2	2	12
+SimulatedArduino0	ZhAx79wT161jVoh6fFf5wnK	L	3	2	12
+SimulatedArduino0	ZhAx79wT161jVoh6fFf5wnK	D	4	
+SimulatedArduino0	ZhAx79wT161jVoh6fFf5wnK	D	5	
+SimulatedArduino0	ZhAx79wT161jVoh6fFf5wnK	D	6	
+SimulatedArduino1	PrQDPrEPCFNKtZijefPS4aH	T	0	0.8	23.2
+SimulatedArduino1	PrQDPrEPCFNKtZijefPS4aH	T	1	0.8	23.2
+SimulatedArduino1	PrQDPrEPCFNKtZijefPS4aH	L	2	2	12
+SimulatedArduino1	PrQDPrEPCFNKtZijefPS4aH	L	3	2	12
+SimulatedArduino1	PrQDPrEPCFNKtZijefPS4aH	D	4	
+SimulatedArduino1	PrQDPrEPCFNKtZijefPS4aH	D	5	
+SimulatedArduino1	PrQDPrEPCFNKtZijefPS4aH	D	6	
+SimulatedArduino2	WJtCdne4lMHUgrGQCwqyNiN	T	0	0.8	23.2
+SimulatedArduino2	WJtCdne4lMHUgrGQCwqyNiN	T	1	0.8	23.2
+SimulatedArduino2	WJtCdne4lMHUgrGQCwqyNiN	L	2	2	12
+SimulatedArduino2	WJtCdne4lMHUgrGQCwqyNiN	L	3	2	12
+SimulatedArduino2	WJtCdne4lMHUgrGQCwqyNiN	D	4	
+SimulatedArduino2	WJtCdne4lMHUgrGQCwqyNiN	D	5	
+SimulatedArduino2	WJtCdne4lMHUgrGQCwqyNiN	D	6	
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	T	0	9.2	100.5
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	T	1	9.2	100.5
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	L	6	2	17
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	L	6	2	17
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	D	4	
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	D	5	
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	D	6	
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	D	7	
+SimulatedIntelEdison0	Yh7vaZQEPOT34wYACyKB8Ve	D	8	
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	T	0	9.2	100.5
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	T	1	9.2	100.5
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	L	8	2	17
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	L	8	2	17
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	D	4	
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	D	5	
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	D	6	
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	D	7	
+SimulatedIntelEdison1	c2IynwNM4O5Fvg1deFh2gxx	D	8	
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	T	0	9.2	100.5
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	T	1	9.2	100.5
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	L	8	2	17
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	L	8	2	17
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	D	4	
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	D	5	
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	D	6	
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	D	7	
+SimulatedIntelEdison2	LuO5YacQPdc4CBBDiccYp81	D	8	
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	T	0	9.2	100.5
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	T	1	9.2	100.5
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	L	8	2	17
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	L	8	2	17
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	D	4	
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	D	5	
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	D	6	
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	D	7	
+SimulatedIntelEdison3	CuKuF6038PF6dIAYL17pBsl	D	8	
